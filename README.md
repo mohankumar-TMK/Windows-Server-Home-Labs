@@ -44,9 +44,8 @@ Each lab file includes screenshots documenting key configuration steps. Full-siz
 
 ## 🎓 Learning Sources
 
-Ogden Weber Technical College
-
-Youtube.com
+YouTube Tutorials
+Microsoft Learn documentation
 
 ---
 
